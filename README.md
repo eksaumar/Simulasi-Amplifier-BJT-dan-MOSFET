@@ -1,0 +1,1 @@
+# Simulasi-Amplifier-BJT-dan-MOSFET
